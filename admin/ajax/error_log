@@ -1,0 +1,49 @@
+[25-Jul-2017 18:04:54 UTC] PHP Notice:  Undefined index: old_file in /home/moza7566699/public_html/admin/ajax/get_data.php on line 1009
+[25-Jul-2017 18:06:35 UTC] PHP Notice:  Undefined index: old_file in /home/moza7566699/public_html/admin/ajax/get_data.php on line 1009
+[25-Jul-2017 18:08:04 UTC] PHP Notice:  Undefined index: old_file in /home/moza7566699/public_html/admin/ajax/get_data.php on line 1009
+[25-Jul-2017 18:13:57 UTC] PHP Notice:  Undefined index: old_file in /home/moza7566699/public_html/admin/ajax/get_data.php on line 1009
+[27-Jul-2017 19:30:49 UTC] PHP Notice:  Undefined offset: 36 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 268
+[27-Jul-2017 19:30:49 UTC] PHP Notice:  Undefined offset: 1 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 269
+[27-Jul-2017 19:31:16 UTC] PHP Notice:  Undefined offset: 36 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 268
+[27-Jul-2017 19:31:16 UTC] PHP Notice:  Undefined offset: 1 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 269
+[01-Aug-2017 13:30:45 UTC] PHP Notice:  Undefined offset: 6 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 291
+[01-Aug-2017 13:30:45 UTC] PHP Notice:  Undefined offset: 1 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 292
+[01-Aug-2017 13:30:46 UTC] PHP Notice:  Undefined offset: 6 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 291
+[01-Aug-2017 13:30:46 UTC] PHP Notice:  Undefined offset: 1 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 292
+[01-Aug-2017 13:30:47 UTC] PHP Notice:  Undefined offset: 6 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 291
+[01-Aug-2017 13:30:47 UTC] PHP Notice:  Undefined offset: 1 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 292
+[01-Aug-2017 13:30:52 UTC] PHP Notice:  Undefined offset: 6 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 291
+[01-Aug-2017 13:30:52 UTC] PHP Notice:  Undefined offset: 1 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 292
+[01-Aug-2017 13:30:55 UTC] PHP Notice:  Undefined offset: 6 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 291
+[01-Aug-2017 13:30:55 UTC] PHP Notice:  Undefined offset: 1 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 292
+[01-Aug-2017 13:30:57 UTC] PHP Notice:  Undefined offset: 6 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 291
+[01-Aug-2017 13:30:57 UTC] PHP Notice:  Undefined offset: 1 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 292
+[01-Aug-2017 13:31:02 UTC] PHP Notice:  Undefined offset: 6 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 291
+[01-Aug-2017 13:31:02 UTC] PHP Notice:  Undefined offset: 1 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 292
+[01-Aug-2017 13:31:08 UTC] PHP Notice:  Undefined offset: 6 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 291
+[01-Aug-2017 13:31:08 UTC] PHP Notice:  Undefined offset: 1 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 292
+[02-Aug-2017 04:23:41 UTC] PHP Notice:  Undefined index: related_products in /home/moza7566699/public_html/admin/ajax/get_data.php on line 1101
+[02-Aug-2017 21:23:33 UTC] PHP Notice:  Undefined offset: 7 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 291
+[02-Aug-2017 21:23:33 UTC] PHP Notice:  Undefined offset: 1 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 292
+[02-Aug-2017 21:23:35 UTC] PHP Notice:  Undefined offset: 7 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 291
+[02-Aug-2017 21:23:35 UTC] PHP Notice:  Undefined offset: 1 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 292
+[02-Aug-2017 21:32:18 UTC] PHP Notice:  Undefined offset: 37 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 268
+[02-Aug-2017 21:32:18 UTC] PHP Notice:  Undefined offset: 1 in /home/moza7566699/public_html/admin/ajax/get_data.php on line 269
+[20-Aug-2017 11:30:07 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/moza7566699/public_html/admin/ajax/get_data.php on line 498
+[20-Aug-2017 11:30:07 UTC] PHP Warning:  imagecreatefromjpeg(): '../../images/1503228607_up.jpg' is not a valid JPEG file in /home/moza7566699/public_html/admin/ajax/get_data.php on line 498
+[20-Aug-2017 11:30:07 UTC] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/moza7566699/public_html/admin/ajax/get_data.php on line 501
+[20-Aug-2017 11:30:07 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/moza7566699/public_html/admin/ajax/get_data.php on line 514
+[20-Aug-2017 11:30:07 UTC] PHP Warning:  imagecreatefromjpeg(): '../../images/1503228607_up.jpg' is not a valid JPEG file in /home/moza7566699/public_html/admin/ajax/get_data.php on line 514
+[20-Aug-2017 11:30:07 UTC] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/moza7566699/public_html/admin/ajax/get_data.php on line 517
+[20-Aug-2017 11:30:30 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/moza7566699/public_html/admin/ajax/get_data.php on line 498
+[20-Aug-2017 11:30:30 UTC] PHP Warning:  imagecreatefromjpeg(): '../../images/1503228630_up.phtnl' is not a valid JPEG file in /home/moza7566699/public_html/admin/ajax/get_data.php on line 498
+[20-Aug-2017 11:30:30 UTC] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/moza7566699/public_html/admin/ajax/get_data.php on line 501
+[20-Aug-2017 11:30:30 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/moza7566699/public_html/admin/ajax/get_data.php on line 514
+[20-Aug-2017 11:30:30 UTC] PHP Warning:  imagecreatefromjpeg(): '../../images/1503228630_up.phtnl' is not a valid JPEG file in /home/moza7566699/public_html/admin/ajax/get_data.php on line 514
+[20-Aug-2017 11:30:30 UTC] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/moza7566699/public_html/admin/ajax/get_data.php on line 517
+[20-Aug-2017 11:30:56 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/moza7566699/public_html/admin/ajax/get_data.php on line 498
+[20-Aug-2017 11:30:56 UTC] PHP Warning:  imagecreatefromjpeg(): '../../images/1503228656_up.phtml' is not a valid JPEG file in /home/moza7566699/public_html/admin/ajax/get_data.php on line 498
+[20-Aug-2017 11:30:56 UTC] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/moza7566699/public_html/admin/ajax/get_data.php on line 501
+[20-Aug-2017 11:30:56 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/moza7566699/public_html/admin/ajax/get_data.php on line 514
+[20-Aug-2017 11:30:56 UTC] PHP Warning:  imagecreatefromjpeg(): '../../images/1503228656_up.phtml' is not a valid JPEG file in /home/moza7566699/public_html/admin/ajax/get_data.php on line 514
+[20-Aug-2017 11:30:56 UTC] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/moza7566699/public_html/admin/ajax/get_data.php on line 517

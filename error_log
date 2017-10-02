@@ -1,0 +1,5 @@
+[02-Oct-2017 07:49:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/dataapps/public_html/hall/login.php on line 8
+[02-Oct-2017 07:49:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/dataapps/public_html/hall/login.php on line 8
+[02-Oct-2017 07:50:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/dataapps/public_html/hall/login.php on line 8
+[02-Oct-2017 07:51:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/dataapps/public_html/hall/login.php on line 8
+[02-Oct-2017 07:52:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/dataapps/public_html/hall/login.php on line 8
